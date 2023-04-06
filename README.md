@@ -42,7 +42,7 @@ Simple e-commerce app made in. Flutter. The UI is made in a way that it is respo
 </br>
 
 • Contact
-![account](screenshots/Contact.png)
+![contact](screenshots/contact.png)
 </br>
 
 • And few other screens also 👍.
